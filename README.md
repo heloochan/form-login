@@ -48,5 +48,5 @@ Dicas para criar uma senha forte:
 * [Bard IA](https://bard.google.com/?utm_source=sem&utm_medium=paid-media&utm_campaign=q4ptBR_sem6&gclid=Cj0KCQiAgqGrBhDtARIsAM5s0_k9W8OsK3vmqlcY5UaHv-rq88tc1i5vpDnRCh9RXFkoF3otpUqYCr4aAgjyEALw_wcB)
 
 ## Autor
-|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140711663?v=4" width=115><br><sub>Ana Santos</sub>](https://github.com/heloochan) |  
+|  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140711663?v=4" width=115><br><sub>Heloise</sub>](https://github.com/heloochan) |  
 | :---: |
